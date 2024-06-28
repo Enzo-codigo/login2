@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "d7ed"
+    },
+    {
+      "id": "97c6",
+      "firstName": "sa",
+      "lastName": "sa",
+      "fullName": "sa sa",
+      "email": "sa@gmail.com",
+      "password": "sa",
+      "userType": "patient",
+      "instituteName": ""
+    }
+  ]
+}
